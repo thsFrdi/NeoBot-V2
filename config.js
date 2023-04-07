@@ -151,9 +151,9 @@ global.emojis = pickRandom(["👑", "🎗", "️🗿", "🕹", "️💡", "🪄"
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/67c11cf04d96f9e8fe93c.jpg' //Main Thumbnail
-global.thumb2 = 'https://telegra.ph/file/67c11cf04d96f9e8fe93c.jpg'
-global.thumbbc = 'https://telegra.ph/file/67c11cf04d96f9e8fe93c.jpg' //For broadcast
+global.thumb = 'https://telegra.ph/file/9b866e96ba35217564815.jpg' //Main Thumbnail
+global.thumb2 = 'https://telegra.ph/file/9b866e96ba35217564815.jpg'
+global.thumbbc = 'https://telegra.ph/file/9b866e96ba35217564815.jpg' //For broadcast
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumblvlup = 'https://telegra.ph/file/a3e66e0fa840b08236c75.jpg'
 global.flaaa2 = flaaa2Anu()
